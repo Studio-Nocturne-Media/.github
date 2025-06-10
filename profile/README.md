@@ -14,7 +14,7 @@ Studio Nova Media oversees the development of Gainesport University.
 
 
 # Links
-> [Official Website](https://skynotmine.github.io/)  
-> [Itch.io](https://itch.io/dashboard)  
-> [WeightGaming Forum](https://forum.weightgaming.com/t/gainesport-university-a-wg-visual-novel/33853)
+[Official Website](https://skynotmine.github.io/)  
+[Itch.io](https://itch.io/dashboard)  
+[WeightGaming Forum](https://forum.weightgaming.com/t/gainesport-university-a-wg-visual-novel/33853)
 </div>
