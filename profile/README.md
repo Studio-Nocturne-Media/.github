@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Studio Nova Media</p>
+  <h1>Studio Nocturne Media</p>
   <img src="assets/studionova_1024x256.png" alt="Studio Nova Media Logo"/>
 </div>
 
